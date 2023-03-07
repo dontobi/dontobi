@@ -22,12 +22,12 @@
 
 ## My Profiles
 <p align="left">
-<a href="https://github.com/dontobi" target="blank"><img align="center" src="./icons/Github-Dark.svg" alt="My Profile on GitHub" height="40" width="40" /></a>
-<a href="https://matrix.to/#/@dontobi:matrix.org" target="blank"><img align="center" src="./icons/matrix.svg" alt="My Profile on Matrix" height="40" width="40" /></a>
-<a href="https://t.me/dontobi441" target="blank" style="display: none;" ><img align="center" src="./icons/telegram.svg" alt="Telegram Profile" height="40" width="40" /></a>
-<a rel="me" href="https://myHome.zone" target="blank"><img align="center" src="./icons/Wordpress.svg" alt="My Wordpress Blog" height="40" width="40" /></a>
-<a rel="me" href="https://mastodon.social/@dontobi" target="blank"><img align="center" src="./icons/Mastodon-Dark.svg" alt="My Profile on Mastodon" height="40" width="40" /></a>
-<a href="https://twitter.com/dontobi" target="blank"><img align="center" src="./icons/Twitter.svg" alt="My Profile on Twitter" height="40" width="40" /></a>
-<a href="https://www.instagram.com/tobias.schug/" target="blank"><img align="center" src="./icons/Instagram.svg" alt="My Profile on Instagram" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/tobias-s-93b23b1b2/" target="blank"><img align="center" src="./icons/LinkedIn.svg" alt="My Profile on LinkedIn" height="40" width="40" /></a>
+<a href="https://github.com/dontobi" target="blank"><img align="center" src="./icons/Github-Dark.webp" alt="My Profile on GitHub" height="60" width="60" /></a>
+<a href="https://matrix.to/#/@dontobi:matrix.org" target="blank"><img align="center" src="./icons/matrix.webp" alt="My Profile on Matrix" height="60" width="60" /></a>
+<a href="https://t.me/dontobi441" target="blank" style="display: none;" ><img align="center" src="./icons/telegram.webp" alt="Telegram Profile" height="60" width="60" /></a>
+<a href="https://myHome.zone" target="blank"><img align="center" src="./icons/Wordpress.webp" alt="My Wordpress Blog" height="60" width="60" /></a>
+<a rel="me" href="https://mastodon.social/@dontobi" target="blank"><img align="center" src="./icons/Mastodon-Dark.webp" alt="My Profile on Mastodon" height="60" width="60" /></a>
+<a href="https://twitter.com/dontobi" target="blank"><img align="center" src="./icons/Twitter.webp" alt="My Profile on Twitter" height="60" width="60" /></a>
+<a href="https://www.instagram.com/tobias.schug/" target="blank"><img align="center" src="./icons/Instagram.webp" alt="My Profile on Instagram" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/tobias-s-93b23b1b2/" target="blank"><img align="center" src="./icons/LinkedIn.webp" alt="My Profile on LinkedIn" height="60" width="60" /></a>
 </p>
