@@ -23,7 +23,7 @@
 ## My Profiles
 <p align="left">
 <a href="https://github.com/dontobi" target="blank"><img align="center" src="./icons/Github-Dark.webp" alt="My Profile on GitHub" height="60" width="60" /></a>
-<a href="https://matrix.to/#/@dontobi:matrix.org" target="blank"><img align="center" src="./icons/matrix.webp" alt="My Profile on Matrix" height="60" width="60" /></a>
+<a href="https://matrix.to/#/@dontobi:matrix.org" target="blank"><img align="center" src="./icons/Matrix.webp" alt="My Profile on Matrix" height="60" width="60" /></a>
 <a href="https://t.me/dontobi441" target="blank" style="display: none;" ><img align="center" src="./icons/telegram.webp" alt="Telegram Profile" height="60" width="60" /></a>
 <a href="https://myHome.zone" target="blank"><img align="center" src="./icons/Wordpress.webp" alt="My Wordpress Blog" height="60" width="60" /></a>
 <a rel="me" href="https://mastodon.social/@dontobi" target="blank"><img align="center" src="./icons/Mastodon-Dark.webp" alt="My Profile on Mastodon" height="60" width="60" /></a>
