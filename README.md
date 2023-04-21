@@ -22,9 +22,9 @@
 ## My Projects
  - [`AdGuardHome-Lists`](https://github.com/dontobi/AdGuardHome-Lists) Personal Lists for AdGuard Home
  - [`iobroker-docker`](https://github.com/dontobi/iobroker.docker) Docker Container - ioBroker (ARMv7, ARM64, AMD64)
- - [`SpeedFlux.rpi`](https://github.com/dontobi/SpeedFlux.rpi) Docker Container - Speedflux (ARMv7)
- - [`nextcloud-client.rpi`](https://github.com/dontobi/nextcloud-client.rpi) Docker Container - Nextcloud Sync Client (ARMv7)
- - [`MotionEye.rpi`](https://github.com/dontobi/MotionEye.rpi) Docker Container - MotionEye (ARMv7)
+ - [`SpeedFlux.rpi`](https://github.com/dontobi/SpeedFlux.rpi) Docker Container - Speedflux (ARMv7, ARM64)
+ - [`nextcloud-client.rpi`](https://github.com/dontobi/nextcloud-client.rpi) Docker Container - Nextcloud Sync Client (ARMv7, ARM64)
+ - [`MotionEye.rpi`](https://github.com/dontobi/MotionEye.rpi) Docker Container - MotionEye (ARMv7, ARM64)
  - [`SpamCalllist`](https://github.com/dontobi/SpamCalllist) Phone numbers for blacklists
 
 ## Used Languages, Frameworks and Tools
