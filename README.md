@@ -1,11 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
 ## About Me
- - Electrical Technician
- - Programmer
- - Blogger
- - Geek
- - Daddy
+ - Electrical Technician and Programmer
+ - Linux, Smart-Home and FOSS enthusiast
+ - Feel free to reach out for any questionn
 
 ## My Profiles
 <p align="left">
