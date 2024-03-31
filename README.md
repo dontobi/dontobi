@@ -27,5 +27,5 @@
 - [`SpeedFlux.rpi`](https://github.com/dontobi/SpeedFlux.rpi) Docker Container - Speedflux (ARMv7, ARM64)
 
 
-## Used Languages, Frameworks and Tools
-![Languages and Frameworks](https://skillicons.dev/icons?i=raspberrypi,linux,docker,vscode,github,githubactions,js,nodejs,py,bash)
+## Used Plattforms, Operating Systems, Languages and Tools
+![Languages and Frameworks](https://skillicons.dev/icons?i=raspberrypi,linux,debian,vscode,cloudflare, docker,github,githubactions,bash,js,py,cpp&perline=6&theme=dark)
