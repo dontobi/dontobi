@@ -17,11 +17,15 @@
 <a href="https://www.linkedin.com/in/tobias-s-93b23b1b2/" target="blank"><img align="center" src="./icons/LinkedIn.webp" alt="My Profile on LinkedIn" height="48" width="48" /></a>
 </p>
 
-## My Projects
+## Active Projects
  - [`AdGuardHome-Lists`](https://github.com/dontobi/AdGuardHome-Lists) Personal Lists for AdGuard Home
  - [`MotionEye.rpi`](https://github.com/dontobi/MotionEye.rpi) Docker Container - MotionEye (ARMv7, ARM64)
  - [`nextcloud-client.rpi`](https://github.com/dontobi/nextcloud-client.rpi) Docker Container - Nextcloud Sync Client (ARMv7, ARM64)
- - [`SpamCalllist`](https://github.com/dontobi/SpamCalllist) Phone numbers for blacklists
+
+## Archived Projects
+- [`SpamCalllist`](https://github.com/dontobi/SpamCalllist) Phone numbers for blacklists
+- [`SpeedFlux.rpi`](https://github.com/dontobi/SpeedFlux.rpi) Docker Container - Speedflux (ARMv7, ARM64)
+
 
 ## Used Languages, Frameworks and Tools
 ![Languages and Frameworks](https://skillicons.dev/icons?i=raspberrypi,linux,docker,vscode,github,githubactions,js,nodejs,py,bash)
