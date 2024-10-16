@@ -3,7 +3,7 @@
 ## About Me
  - Electrical Technician and Programmer
  - Linux, Smart-Home and FOSS enthusiast
- - Feel free to reach out for any questionn
+ - Feel free to reach out for any question
 
 ## My Profiles
 <p align="left">
