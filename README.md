@@ -20,6 +20,7 @@
  - [`nextcloud-client.rpi`](https://github.com/dontobi/nextcloud-client.rpi) Docker Container - Nextcloud Sync Client (ARMv7, ARM64)
 
 ## Archived Projects
+- [`gPodder2Go`](https://github.com/dontobi/gpodder2go) Docker Container - gPodder2Go (AMD64, ARM64)
 - [`SpamCalllist`](https://github.com/dontobi/SpamCalllist) Phone numbers for blacklists
 - [`SpeedFlux.rpi`](https://github.com/dontobi/SpeedFlux.rpi) Docker Container - Speedflux (ARMv7, ARM64)
 
