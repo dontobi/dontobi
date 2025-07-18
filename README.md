@@ -10,8 +10,7 @@
 <a href="https://github.com/dontobi" target="blank"><img align="center" src="./icons/Github-Light.webp" alt="My Profile on GitHub" height="48" width="48" /></a>
 <a href="https://myHome.zone" target="blank"><img align="center" src="./icons/Wordpress.webp" alt="My Wordpress Blog" height="48" width="48" /></a>
 <a rel="me" href="https://mastodon.social/@dontobi" target="blank"><img align="center" src="./icons/Mastodon-Light.webp" alt="My Profile on Mastodon" height="48" width="48" /></a>
-[![BlueSky](https://skillicons.dev/icons?i=bluesky&theme=light)](https://bsky.app/profile/dontobi.bsky.social)
-<a href="https://bsky.app/profile/dontobi.bsky.social" target="blank"><img align="center" src="icons/Bluesky.webp" alt="My Profile on BlueSky" height="48" width="48" /></a>
+<a href="https://bsky.app/profile/dontobi.bsky.social" target="blank"><img align="center" src="https://skillicons.dev/icons?i=bluesky&theme=light" alt="My Profile on BlueSky" height="48" width="48" /></a>
 <a href="https://www.instagram.com/tobias.schug/" target="blank"><img align="center" src="./icons/Instagram.webp" alt="My Profile on Instagram" height="48" width="48" /></a>
 <a href="https://www.linkedin.com/in/tobias-schug/" target="blank"><img align="center" src="./icons/LinkedIn.webp" alt="My Profile on LinkedIn" height="48" width="48" /></a>
 </p>
