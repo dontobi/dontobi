@@ -28,3 +28,6 @@
 
 ## Used Plattforms, Operating Systems, Languages and Tools
 ![Languages and Frameworks](https://skills.syvixor.com/api/icons?i=android,bash,cloudflare,cpp,debian,docker,github,githubactions,grafana,homeassistant,javascript,linux,powershell,python,raspberrypi,visualstudiocode,vmware,yaml&perline=6)
+
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dontobi&theme=github_dark&show_icons=true)
