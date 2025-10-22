@@ -8,20 +8,8 @@
 ## My Profiles
 <div align="left">
   <a href="https://myHome.zone" target="blank"><img src="icons/wordpress.png" alt="My Wordpress Blog" height="64" width="64" /></a>
-  <a href="https://github.com/dontobi" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="icons/github-light.png">
-      <source media="(prefers-color-scheme: light)" srcset="icons/github-dark.png">
-      <img src="icons/github.svg" alt="My Profile on GitHub" height="64" width="64" />
-    </picture>
-  </a>
-  <a rel="me" href="https://mastodon.social/@dontobi" target="blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="icons/mastodon-light.png">
-      <source media="(prefers-color-scheme: light)" srcset="icons/mastodon-dark.png">
-      <img src="icons/github.svg" alt="My Profile on Mastodon" height="64" width="64" />
-    </picture>
-  </a>
+  <a href="https://github.com/dontobi" target="blank"><img src="icons/github-light.png" alt="My Profile on GitHub" height="64" width="64" /></a>
+  <a rel="me" href="https://mastodon.social/@dontobi" target="blank"><img src="icons/mastodon-light.png" alt="My Profile on Mastodon" height="64" width="64" /></a>
   <a rel="me" href="https://pixelfed.de/dontobi" target="blank"><img src="icons/pixelfed.png" alt="My Profile on Pixelfed" height="64" width="64" /></a>
   <a href="https://bsky.app/profile/dontobi.bsky.social" target="blank"><img src="icons/bluesky.png" alt="My Profile on BlueSky" height="64" width="64" /></a>
   <a href="https://www.instagram.com/tobias.schug/" target="blank"><img src="icons/instagram.png" alt="My Profile on Instagram" height="64" width="64" /></a>
