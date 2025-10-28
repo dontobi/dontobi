@@ -11,8 +11,6 @@
   <a href="https://github.com/dontobi" target="blank"><img src="icons/github-light.png" alt="My Profile on GitHub" height="48" width="48" /></a>
   <a rel="me" href="https://mastodon.social/@dontobi" target="blank"><img src="icons/mastodon-light.png" alt="My Profile on Mastodon" height="48" width="48" /></a>
   <a rel="me" href="https://pixelfed.de/dontobi" target="blank"><img src="icons/pixelfed-light.png" alt="My Profile on Pixelfed" height="48" width="48" /></a>
-  <a href="https://bsky.app/profile/dontobi.bsky.social" target="blank"><img src="icons/bluesky-light.png" alt="My Profile on BlueSky" height="48" width="48" /></a>
-  <a href="https://www.instagram.com/tobias.schug/" target="blank"><img src="icons/instagram.png" alt="My Profile on Instagram" height="48" width="48" /></a>
   <a href="https://music.youtube.com/@dontobi441" target="blank"><img src="icons/youtube-music-light.png" alt="My Profile on Youtube Music" height="48" width="48" /></a>
   <a href="https://www.google.com/maps/contrib/117682940928432908382/reviews" target="blank"><img src="icons/maps-light.png" alt="My Profile on Google Maps" height="48" width="48" /></a>
   <a href="https://www.linkedin.com/in/tobias-schug/" target="blank"><img src="icons/linkedin.png" alt="My Profile on LinkedIn" height="48" width="48" /></a>
