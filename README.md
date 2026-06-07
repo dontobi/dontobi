@@ -1,6 +1,6 @@
 
 # 👋 Hello there, I'm Tobias
-### Electrical Technician • Programmer • Smart Home Enthusiast
+## Electrical Technician • Programmer • Smart Home Enthusiast
 
 
 ---
@@ -22,13 +22,13 @@ I currently use the following platforms, operating systems, tools, and programmi
 ## 🌐 My Profiles
 
 <div align="left">
-  <a href="https://www.myHome.zone" target="blank"><img src="icons/wordpress.png" alt="My WordPress Blog" height="48" width="48" /></a>
-  <a href="https://github.com/dontobi" target="blank"><img src="icons/github-light.png" alt="My Profile on GitHub" height="48" width="48" /></a>
-  <a rel="me" href="https://mastodon.social/@dontobi" target="blank"><img src="icons/mastodon-light.png" alt="My Profile on Mastodon" height="48" width="48" /></a>
-  <a rel="me" href="https://pixelfed.de/dontobi" target="blank"><img src="icons/pixelfed-light.png" alt="My Profile on Pixelfed" height="48" width="48" /></a>
-  <a href="https://music.youtube.com/@dontobi441" target="blank"><img src="icons/youtube-music-light.png" alt="My Profile on YouTube Music" height="48" width="48" /></a>
-  <a href="https://www.google.com/maps/contrib/117682940928432908382/reviews" target="blank"><img src="icons/maps-light.png" alt="My Profile on Google Maps" height="48" width="48" /></a>
-  <a href="https://www.linkedin.com/in/tobias-schug/" target="blank"><img src="icons/linkedin.png" alt="My Profile on LinkedIn" height="48" width="48" /></a>
+  <a href="https://www.myHome.zone" target="_blank"><img src="icons/wordpress.png" alt="My WordPress Blog" height="48" width="48" /></a>
+  <a href="https://github.com/dontobi" target="_blank"><img src="icons/github-light.png" alt="My Profile on GitHub" height="48" width="48" /></a>
+  <a rel="me" href="https://mastodon.social/@dontobi" target="_blank"><img src="icons/mastodon-light.png" alt="My Profile on Mastodon" height="48" width="48" /></a>
+  <a rel="me" href="https://pixelfed.de/dontobi" target="_blank"><img src="icons/pixelfed-light.png" alt="My Profile on Pixelfed" height="48" width="48" /></a>
+  <a href="https://music.youtube.com/@dontobi441" target="_blank"><img src="icons/youtube-music-light.png" alt="My Profile on YouTube Music" height="48" width="48" /></a>
+  <a href="https://www.google.com/maps/contrib/117682940928432908382/reviews" target="_blank"><img src="icons/maps-light.png" alt="My Profile on Google Maps" height="48" width="48" /></a>
+  <a href="https://www.linkedin.com/in/tobias-schug/" target="_blank"><img src="icons/linkedin.png" alt="My Profile on LinkedIn" height="48" width="48" /></a>
 </div>
 
 
@@ -36,8 +36,8 @@ I currently use the following platforms, operating systems, tools, and programmi
 
 
 ## 🛠️ Active Projects
- - [`MotionEye.rpi`](https://github.com/dontobi/MotionEye.rpi) Docker Container for MotionEye (ARMv7, ARM64)
- - [`nextcloud-client.rpi`](https://github.com/dontobi/nextcloud-client.rpi) Docker Container for Nextcloud Sync Client (ARMv7, ARM64)
+- [`MotionEye.rpi`](https://github.com/dontobi/MotionEye.rpi) Docker Container for MotionEye (ARMv7, ARM64)
+- [`nextcloud-client.rpi`](https://github.com/dontobi/nextcloud-client.rpi) Docker Container for Nextcloud Sync Client (ARMv7, ARM64)
 
 
 ## 🛠️ Archived Projects
@@ -58,5 +58,3 @@ I currently use the following platforms, operating systems, tools, and programmi
 
 ## 💬 Support / Contact
 If you find one of my projects useful or enjoyable, feel free to leave a star – your support truly motivates me.
-
-If you have any questions, please feel free to open an issue in the corresponding repository.
